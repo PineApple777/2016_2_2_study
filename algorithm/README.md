@@ -1,6 +1,7 @@
 # Algorithm
 
-아래 내용은 [Algorithm과제](http://isa.hanyang.ac.kr:8080/notice/) 페이지에서 가져온 것입니다.
+아래 내용은 [Algorithm과제](http://isa.hanyang.ac.kr:8080/) 페이지에서 가져온 것입니다.
+본 내용에 대한 출처는 [이곳](http://isa.hanyang.ac.kr/)에 있습니다.
 
 ### 컴파일 관련 사항
 
