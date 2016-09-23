@@ -1,6 +1,6 @@
 ## 2016PYTHON by JUNG 
 
-이 파일들은 [ICEWALL/Python2016](https://github.com/HYU-ICEWALL/Python2016) 스터디에서 작성된 과제와 코드들을 모아놓은 곳입니다. 스터디와 관련된 내용 및 출저를 확인하고 싶다면 [이곳](https://maybes.gitbooks.io/python-2016/content/week0.html)을 방문하면 됩니다.
+이 파일들은 [ICEWALL/Python2016](https://maybes.gitbooks.io/python-2016/content/) 스터디에서 작성된 과제와 코드들을 모아놓은 곳입니다. 스터디와 관련된 내용 및 출저를 확인하고 싶다면 [이곳](https://maybes.gitbooks.io/python-2016/content/week0.html)을 방문하면 됩니다.
 
 #### 코드 작성 및 제출 방법
 
