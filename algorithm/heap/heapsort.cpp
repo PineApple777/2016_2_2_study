@@ -14,16 +14,10 @@ void max_heapify(int* arr, int n, int i){
 	if(rgt < n+1 && arr[rgt] > arr[largest]){
 		largest = rgt;
 	}
-	//printf("debug : %d\n",arr[lft] );
-	//printf("debug_i : %d\n",i );
-	//printf("debug_n : %d\n",n );
 	if(largest != i && lft <= n){
 		x = arr[i];
-		//printf("debug : %d\n",arr[i] );
 		arr[i] = arr[largest];
-		//printf("debug : %d\n",arr[i] );
 		arr[largest] = x;
-		//printf("debug : %d\n",arr[largest] );
 		max_heapify(arr,n,largest);
 	}
 
